@@ -10,7 +10,6 @@ Welcome to the Data Science Projects repository! This repository contains multip
 - [Project Structure](#project-structure)
 - [How to Use](#how-to-use)
 - [Technologies Used](#technologies-used)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -21,7 +20,7 @@ This repository serves as a portfolio of my data science projects. Each subfolde
 The repository is structured as follows:
 
 - [Project 1](/Project_1-Object_Detection/): Object Detection Using OpenCV
-- [Project 2](/Automobile/): Linear Regression Model GUI
+- [Project 2](/Project_2-LR_GUI__Model/): Linear Regression Model GUI
 - [Project 3](/project3/): [Brief description of project 3]
 - [Project 4](/project4/): [Brief description of project 4]
 - [Project 5](/project5/): [Brief description of project 5]
@@ -43,14 +42,8 @@ The projects in this repository were created using Python programming language a
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-- [Add any other libraries used]
 
 The specific libraries and versions for each project are documented in their respective README files.
 
-## Acknowledgments
-
-I would like to express my gratitude to [mention any collaborators, mentors, or data sources] who contributed to the successful completion of these projects.
-
----
 
 Feel free to customize the overview based on the number of projects, their descriptions, and any other details specific to your repository. The README file will provide an informative overview of the entire repository, allowing visitors to explore and understand the various data science projects you have completed.
