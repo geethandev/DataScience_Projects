@@ -21,9 +21,9 @@ The repository is structured as follows:
 
 - [Project 1](/Project_1-Object_Detection/): Object Detection Using OpenCV
 - [Project 2](/Project_2-LR_GUI__Model/): Linear Regression Model GUI
-- [Project 3](/project3/): [Brief description of project 3]
-- [Project 4](/project4/): [Brief description of project 4]
-- [Project 5](/project5/): [Brief description of project 5]
+- [Project 3](/project3/): comming soon
+- [Project 4](/project4/): comming soon
+- [Project 5](/project5/): comming soon
 - ...
 
 Each project folder contains the necessary files, such as Jupyter Notebooks, datasets, and additional resources.
