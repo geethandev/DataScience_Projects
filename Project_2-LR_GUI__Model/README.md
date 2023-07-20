@@ -29,12 +29,10 @@ To run the project, follow these steps:
    - Run the Python script for the Tkinter-based GUI application.
 
 ## Requirements
-- Python 3.x
+- Python 3.9
 - Libraries: pandas, scikit-learn, matplotlib, tkinter (included with Python)
 - SQL Server (for ETL process)
 
 ## Author
-- Your Name
+- Geethandev
 
-## Acknowledgments
-- Credits or references to any resources, tutorials, or data sources used in the project.
