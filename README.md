@@ -10,7 +10,6 @@ Welcome to the Data Science Projects repository! This repository contains multip
 - [Project Structure](#project-structure)
 - [How to Use](#how-to-use)
 - [Technologies Used](#technologies-used)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -43,14 +42,8 @@ The projects in this repository were created using Python programming language a
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-- [Add any other libraries used]
 
 The specific libraries and versions for each project are documented in their respective README files.
 
-## Acknowledgments
-
-I would like to express my gratitude to [mention any collaborators, mentors, or data sources] who contributed to the successful completion of these projects.
-
----
 
 Feel free to customize the overview based on the number of projects, their descriptions, and any other details specific to your repository. The README file will provide an informative overview of the entire repository, allowing visitors to explore and understand the various data science projects you have completed.
