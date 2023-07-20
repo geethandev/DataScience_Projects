@@ -21,7 +21,7 @@ This repository serves as a portfolio of my data science projects. Each subfolde
 The repository is structured as follows:
 
 - [Project 1](/Project_1-Object_Detection/): Object Detection Using OpenCV
-- [Project 2](/Automobile/): Linear Regression Model GUI
+- [Project 2](/Project_2-LR_GUI__Model/): Linear Regression Model GUI
 - [Project 3](/project3/): [Brief description of project 3]
 - [Project 4](/project4/): [Brief description of project 4]
 - [Project 5](/project5/): [Brief description of project 5]
