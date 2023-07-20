@@ -20,7 +20,7 @@ This repository serves as a portfolio of my data science projects. Each subfolde
 
 The repository is structured as follows:
 
-- [Project 1](/project1/): [Brief description of project 1]
+- [Project 1](/Object_Detection/): Object Detection Using OpenCV
 - [Project 2](/project2/): [Brief description of project 2]
 - [Project 3](/project3/): [Brief description of project 3]
 - [Project 4](/project4/): [Brief description of project 4]
