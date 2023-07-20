@@ -1,5 +1,5 @@
 # Automobile MPG Prediction with Data Science and GUI
-
+![Project Image](project_img.jpg) 
 ## Project Overview
 This project aims to build a predictive model to estimate the miles per gallon (MPG) of automobiles based on various features such as cylinders, displacement, horsepower, weight, and acceleration. The project involves the following key steps:
 
